@@ -1,0 +1,46 @@
+{
+"11111" : {
+    "name1" : "Мертвые души",
+    "price" : "10 BYN",
+    "image" : "dushi.jpg"
+},
+
+"11112" : {
+    "name1" : "Война и мир",
+    "price" : "8 BYN",
+    "image" : "war.jpg"
+},
+
+"11113" : {
+    "name1" : "Тарас Бульба",
+    "price" : "5 BYN",
+    "image" : "taras.jpg"
+},
+ 
+    "11114" : {
+    "name1" : "Идиот",
+    "price" : "10 BYN",
+    "image" : "idiot.jpg"
+},
+  
+    
+    "11115" : {
+    "name1" : "Живой труп",
+    "price" : "8 BYN",
+    "image" : "trup.jpg"
+},
+    
+    
+    "11116" : {
+    "name1" : "Герой нашего времени",
+    "price" : "10 BYN",
+    "image" : "ger.jpg"
+},
+    
+    
+    "11117" : {
+    "name1" : "Бесы",
+    "price" : "10 BYN",
+    "image" : "bes.jpg"
+}
+}
